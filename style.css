@@ -74,7 +74,7 @@ main {
   height: 50px;
 }
 
-@media screen and (max-width:425px) {
+@media screen and (max-width:768px) {
   header {
     width: 100%;
   }
@@ -87,8 +87,7 @@ main {
 
   .item {
     width: 90%;
-    margin-right: 0px;
-    margin: 0px auto;
+    margin: 0 auto;
     margin-bottom: 20px;
   }
 
